@@ -1,8 +1,6 @@
 # Aeronav
 # Drone Autonomous Navigation and Image Processing
 
-![Drone](drone_image.jpg)
-
 This repository contains the Python wrapper and controller for autonomous navigation of a drone in a simulated environment. Additionally, it leverages OpenCV techniques to process images captured by the onboard camera, extracting various features of the arena, such as object counting, color distinction, and shape recognition.
 
 ## Table of Contents
